@@ -1,4 +1,3 @@
-<img width="905" height="494" alt="image" src="https://github.com/user-attachments/assets/cf7392a6-7128-446c-bb0c-aa8b1112c050" />---
 title: Collect ETL trace with PerfView, create minidumps
 description: Use the PerfView tool to create an ETL (event trace log) based on Event Tracing for Windows for troubleshooting issues with Visual Studio.
 ms.date: 07/18/2022
